@@ -1,2 +1,3 @@
 # hello-world
-tutorial first projet :)
+tutorial first project :)
+premier projet tutoriel ;)
