@@ -1,5 +1,0 @@
-# hello-world
-contribution locale
-2e ligne
-3e ligne directement dans master
-nouvelle branche newbranch
