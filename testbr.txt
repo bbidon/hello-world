@@ -1,5 +1,6 @@
 # $Id$
 
-Ca fonctionne ?
+Ca fonctionne ? // 1re branche
+Je ne sais pas trop // 2e branche
 
 Fin !
